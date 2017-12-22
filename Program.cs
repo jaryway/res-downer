@@ -38,9 +38,6 @@ namespace ResDowner
 
                     line = reader.ReadLine();
                 }
-
-
-                //res = serializer.Deserialize<Dictionary<string, string>>(reader.ReadToEnd());
             }
 
             //var jsBase = "https://res.wx.qq.com/mmocbiz/zh_CN/scripts/";
