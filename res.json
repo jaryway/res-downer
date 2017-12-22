@@ -1,0 +1,39 @@
+﻿{
+  "/static/js/form.js": "/static/js/form.js",
+  "/static/js/form/formlayout.js": "/static/js/form/formlayout.js",
+  "/static/js/form/form-plugin.js": "/static/js/form/form-plugin.js",
+  "/static/js/form/componentmodel.js": "/static/js/form/componentmodel.js",
+  "/static/js/form/tplutil.js": "/static/js/form/tplutil.js",
+  "/static/js/form/component/relatefieldconfig.js": "/static/js/form/component/relatefieldconfig.js",
+  "/static/js/form/component/formconditioneditorview.js": "/static/js/form/component/formconditioneditorview.js",
+  "/static/js/form/component/typeahead.js": "/static/js/form/component/typeahead.js",
+  "/static/js/form/component/entityselecter.js": "/static/js/form/component/entityselecter.js",
+  "/static/js/plugins/bootstrap-paginator.js": "/static/js/plugins/bootstrap-paginator.js",
+
+  "/static/css/eteams.ui.min.css": "/static/css/eteams.ui.min.css",
+  "/static/css/font-icons.css": "/static/css/font-icons.css",
+  "/static/css/colpick.css": "/static/css/colpick.css",
+  "/static/css/introjs.css": "/static/css/introjs.css",
+  "/static/css/form.css": "/static/css/form.css",
+  "/static/css/form-select.css": "/static/css/form-select.css",
+  "/static/css/form-view.css": "/static/css/form-view.css",
+  "/static/css/form-typeahead.css": "/static/css/form-typeahead.css",
+  "/static/css/org.css": "/static/css/org.css",
+  "/static/css/plugins.min.css": "/static/css/plugins.min.css",
+  "/static/css/form.eteams.fix.css": "/static/css/form.eteams.fix.css",
+  "/static/css/form-mockup.css": "/static/css/form-mockup.css",
+
+  "/static/js/libs.js": "/static/js/libs.js",
+  "/static/js/plugins.js": "/static/js/plugins.js?v=1.1",
+  "/static/js/ckeditor/ckeditor.js": "/static/js/ckeditor/ckeditor.js",
+  "/static/js/plugins/colpick.js": "/static/js/plugins/colpick.js",
+
+  "/fonts/teams.eot": "/fonts/teams.eot?si9rbp",
+  "/fonts/teams.ttf": "/fonts/teams.ttf?si9rbp",
+  "/fonts/teams.woff": "/fonts/teams.woff?si9rbp",
+  "/fonts/teams.svg": "/fonts/teams.svg?si9rbp#teams",
+
+  "/static/img/global/logo_light.png": "/static/img/global/logo_light.png",
+  "/static/img/global/form-icons.png": "/static/img/global/form-icons.png",
+  "/static/img/form/preview-bg.png": "/static/img/form/preview-bg.png"
+}
